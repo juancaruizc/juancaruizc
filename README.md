@@ -1,5 +1,5 @@
 ### Hi.
-Welcome to my Github.
+I'm Juan, welcome to my Github. For fun, I like to build things and solve problems.
 
 <!--
 **juancaruizc/juancaruizc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
