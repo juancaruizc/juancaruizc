@@ -6,4 +6,4 @@ JavaScript, Python, HTML, CSS, React, Redux, Node, Express, SQL, PostgreSQL
 
 You can find on [Twitter](https://twitter.com/juanca_ruizc), [Linkedin](https://www.linkedin.com/in/juan-c-ruiz/), [Email](mailto:jruiz@hey.com)
 
-https://github-readme-stats.vercel.app/api?username=juancaruizc&show_icons=true&hide=[%22issues%22]
+![Juan's Github stats](https://github-readme-stats.vercel.app/api?username=juancaruizc&show_icons=true&hide=[%22issues%22])
