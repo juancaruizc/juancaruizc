@@ -1,5 +1,5 @@
 ### Hi.
-I'm Juan, welcome to my Github. I studied CS at Lambda School. For fun, I like to build things and solve problems.
+I'm Juan, welcome to my Github. I am a software engineer. Previously, I studied CS at Lambda School. For fun, I like to build + design things, solve problems, and learn.
 
 **I Speak**:
 English, Spanish, JavaScript, Python, HTML, CSS, React, NextJS, Redux, Node, Express, SQL, Postgres
